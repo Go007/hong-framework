@@ -11,6 +11,9 @@
 
     <artifactId>hong-starter-parent</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>hong-redis-starter</module>
+    </modules>
 
     <dependencies>
         <dependency>
